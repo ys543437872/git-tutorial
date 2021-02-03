@@ -16,9 +16,11 @@ Markmap 的官网： <https://markmap.js.org/>
 ### Markmap 的语法  
 
 使用 Markmap 绘制思维导图，只需三个符号。
+
 > - #：标题
 > - -：列表
 > - —：分隔符
+
 
 Markmap 的 Markdown 语法如下：  
 ```
@@ -52,8 +54,6 @@ Markmap 的 Markdown 语法如下：
 ```
 
 效果如下：  
-![Markmap 思维导图](cache/markmap.svg)
-
 [Markmap 思维导图](cache/markmap.html)
 
 ### Markdown 生成思维导图
