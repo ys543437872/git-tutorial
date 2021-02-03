@@ -13,6 +13,16 @@ Markmap 的官网： <https://markmap.js.org/>
 
 ## Markmap 的使用方法
 
+### Markdown 生成思维导图
+- 在线版
+    > 访问 <https://markmap.js.org/repl> 在线生成
+    > 
+    > 推荐使用Edge或者Firefox打开，其他浏览器会无法生成
+- 离线版
+    > VS code 插件： `markmap `
+    > 
+    > 目前好像只支持mac
+
 ### Markmap 的语法  
 
 使用 Markmap 绘制思维导图，只需三个符号。
@@ -54,17 +64,7 @@ Markmap 的 Markdown 语法如下：
 ```
 
 效果如下：  
-[Markmap 思维导图](cache/markmap.html)
-
-### Markdown 生成思维导图
-- 在线版
-    > 访问 <https://markmap.js.org/repl> 在线生成
-    > 
-    > 推荐使用Edge或者Firefox打开，其他浏览器会无法生成
-- 离线版
-    > VS code 插件： `markmap `
-    > 
-    > 目前好像只支持mac
+需要本地浏览器打开 [Markmap 思维导图](cache/markmap.html)
 
 # 参考资料
 
