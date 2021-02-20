@@ -81,6 +81,15 @@ git commit -m "<commit message>"
 git commit -am "<commit message>"
 ```
 
+# 查询提交历史记录
+```
+# 详细的提交记录
+git log
+
+# 简易显示提交记录
+git log --pretty=oneline
+```
+
 # 移除文件
 ```
 # 将文件从暂存区移除
@@ -160,7 +169,7 @@ sequenceDiagram
     participant 版本库
 
     工作区->>暂存区:git add <files>
-    
+
     暂存区->>工作区:git rm <files>
 
     暂存区->>版本库:git commit -m "This is commit message"
